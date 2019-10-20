@@ -4,7 +4,7 @@ import (
 	"github.com/01-edu/z01"
 )
 
-func Raid1b(x, y int) {
+func Raid1c(x, y int) {
 	if x > 0 {
 		for row := 0; row < y; row++ {
 			for column := 0; column < x; column++ {
